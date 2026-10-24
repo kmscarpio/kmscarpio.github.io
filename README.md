@@ -965,9 +965,7 @@
     }
   </style>
 
-<link rel="icon" type="image/x-icon" href="./kmsFavicon.ico?v=6">
-<link rel="shortcut icon" href="./kmsFavicon.ico?v=6">
-  
+
 </head>
 
 <body>
