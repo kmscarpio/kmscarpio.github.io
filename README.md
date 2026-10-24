@@ -964,6 +964,9 @@
       }
     }
   </style>
+
+  <link rel="icon" type="image/png" href="./kmsLogo.png">
+  
 </head>
 
 <body>
