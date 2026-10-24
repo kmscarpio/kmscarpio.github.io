@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="#101114">
 
-  <title>Matthew | Developer Portfolio</title>
+  <title>Kyle Matthew S. Carpio | Developer Portfolio</title>
   <meta name="description" content="Matthew's personal portfolio, programming projects, skills, and journey into software development and cybersecurity.">
 
   <style>
