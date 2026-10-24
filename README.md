@@ -965,7 +965,8 @@
     }
   </style>
 
-  <link rel="icon" href="/kmsFavicon.ico?v=4" sizes="any">
+<link rel="icon" type="image/x-icon" href="./kmsFavicon.ico?v=6">
+<link rel="shortcut icon" href="./kmsFavicon.ico?v=6">
   
 </head>
 
