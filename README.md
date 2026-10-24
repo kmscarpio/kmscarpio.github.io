@@ -965,7 +965,7 @@
     }
   </style>
 
-  <link rel="icon" href="/kmsLogo.jpg?v=2" type="image/jpeg">
+  <link rel="icon" href="/kmsFavicon.ico" type="image/x-icon">
   
 </head>
 
